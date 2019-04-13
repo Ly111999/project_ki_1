@@ -1,0 +1,81 @@
+html {
+	min-height: 100%;
+	min-width: 100%;
+	-ms-text-size-adjust: none;
+}
+body, div, dl, dt, dd, ul, ol, li, nav, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td, a {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: transparent;
+	-webkit-transform-origin: left top;
+	-ms-transform-origin: left top;
+	-o-transform-origin: left top;
+	transform-origin: left top;
+	background-repeat: no-repeat;
+}
+button.submit-btn {
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.clearfix:after {
+	content: "\0020";
+	visibility: hidden;
+	display: block;
+	height: 0px;
+	clear: both;
+}
+.colelem {
+	display: inline;
+	float: left;
+	clear: both;
+}
+.grpelem, .accordion_wrapper {
+	display: inline;
+	float: left;
+}
+.clip_frame {
+	overflow: hidden;
+}
+.MenuBar .SubMenuVisible, .MenuBarVertical .SubMenuVisible, .MenuBar .SubMenu .SubMenuVisible, .popup_element.Active, span.actAsPara, .actAsDiv, a.nonblock.nontext, img.block {
+	display: block;
+}
+.cheo1-1 {
+	margin-left: 100%;
+	margin-top: -80%;	
+}
+
+.cheo1-2 {
+	margin-left:99%;
+	margin-top: -62%;
+}
+
+.rea {
+	margin-top: 130%;
+}
+
+#realistic {
+	font-size: 34px;
+	line-height: 41px;
+	
+	
+}
+
+#realistic1 {
+	font-size: 25px;
+	line-height: 30px;
+	margin-left: 565px;
+	
+}
+
+#photoT {
+	z-index: 59;
+	min-height: 61px;
+	background-color: transparent;
+	margin-top: 99px;
+	position: relative;
+	width: 33.25%;
+	margin-left: 45%;
+}

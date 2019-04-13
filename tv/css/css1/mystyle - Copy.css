@@ -1,0 +1,21 @@
+
+.position-carousel {
+	top: 10px;
+	left: 2%;
+
+}
+
+.dorong {
+	width: 320px;
+	height: 320px;
+}
+
+.vitriIndicate {
+	top: 650px;
+}
+
+.anh {
+	height: 40px;
+	width: 60px;
+	background-image: url(../images/anh sl3/sl3-1.png);
+}

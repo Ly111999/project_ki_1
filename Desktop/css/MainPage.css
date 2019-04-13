@@ -1,0 +1,310 @@
+
+body{
+    font-family: HPSimplifiedLight;
+    color: #222;
+    background-color: #f2f2f2;
+}
+a{
+    text-decoration: none!important;
+    outline: 0;
+}
+
+.carousel-container{
+    width: 1920px;
+    padding: 0;
+}
+
+.carousel-caption{
+    text-align: left;
+    color: black;
+    padding: 1em 2em;
+}
+.overlay-container{
+    text-align: left;
+    position: absolute;
+    top:20%;
+    left: 15%;
+}
+
+.overlay-text{
+    text-align: left;
+    position: absolute;
+    padding:1.5em;
+    width:35em;
+}
+.overlay-container{
+    text-align: left;
+    position: absolute;
+    padding-bottom: 100px;
+}
+.overlay-text>.caption1{
+    color: white;
+    margin-bottom: .125em;
+    margin-top: 0;
+    font-size: 41px;
+    line-height: 51px;
+    letter-spacing: -.0255em;
+    display: block;
+}
+.overlay-text>.caption2{
+    color: white;
+    font-size: 18px;
+    display: block;
+    font-weight: 100;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+
+.overlay-container1{
+    text-align: left;
+    position: absolute;
+    top:15%;
+    left: 15%;
+}
+    
+.overlay-text1>.caption3{
+    color: #222;
+    font-size: 48px;
+    margin-bottom: .125em;
+    margin-top: 0;
+    display: block;
+}
+
+.overlay-container1>.overlay-text1{
+    text-align: left;
+    top:3em;
+    padding: 1.5em;
+    width:30em;
+}
+
+.overlay-text1>.caption4{
+    font-size: 18px;
+    margin-bottom: .75em;
+}
+
+.overlay-container2{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.overlay-text2{
+    text-align: left;
+    top:5em;
+    padding: 1.5em;
+}
+
+.overlay-text2>.caption5{
+    color: #222;
+    margin-bottom: .125em;
+    font-size: 54px;
+    line-height: 54px;
+    display: block;
+}
+.overlay-text2>.caption6{
+    color:#222;
+    font-size: 1em;
+    display: block;
+    margin-bottom: 0;
+}
+.overlay-container3{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.overlay-text3>.caption7{
+    font-size: 54px;
+    line-height: 54px;
+    color: white;
+}
+.overlay-text3>.caption8{
+    color: white;
+    text-transform: none;
+    line-height: 1.125em;
+    font-size: 30px;
+    display: block;
+    margin-top: 0.25em;
+}
+
+#featured{
+    margin-top: 60px;
+}
+#featured>.section-title{
+    font-size: 42px;
+    color: #767676;
+    line-height: 54px;
+    margin-top: 10px;
+    text-align: center;
+}
+.carousel-control-next,.carousel-control-prev:active{
+    color: #0033cc;
+}
+
+.resultList{
+    max-width: 64.4em;
+    width: 101%;
+}
+.row{
+    margin-left: auto;
+    margin-right:  auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.product-card{
+    padding: 0.9375em;
+}
+.large-4{
+    position: relative;
+    width: 33.33333%
+}
+
+.columns{
+    float: left;
+}
+.product-card>.item1column{
+    width: 100%;
+    background-color: #fff;
+    padding: 14px 0.9375em 0em;
+    border: solid 1px #c8caca;
+    position: relative;
+}
+.img-content>img{
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    height: 11em;
+}
+
+.text-align-btn{
+     text-align: center;
+}
+
+.product-card>.item1column>h3{
+    font-size: 1.75em;
+    font-weight: 100;
+    line-height: 1.25;
+    max-height: 2.5em;
+    overflow: hidden;
+}
+.firstFeauteresList{
+    margin-top: 0.75em;
+}
+
+.productInfo{
+    height: 16.5em;
+    overflow: hidden;
+    margin-top: 1em;
+}
+.descBlock{
+    height: 9em;
+}
+.descBlock>ul{
+    margin-bottom: 0;
+    font-size: 0.875em;
+}
+.pricingSummary{
+    font-size: .9rem;
+    text-align: center;
+    position: relative;
+    margin-top: 1.25em;
+    height: 6em;
+}
+.pricingSummary-details{
+    margin: 0 auto;
+    padding-right: 0;
+}
+.pricingSummary-details-final-price-title{
+    line-height: 1.3em;
+    padding-top: .3em;
+    clear: both;
+}
+.pricingSummary-details-final-price{
+    font-size: 2em;
+    color: red;
+    line-height: 1.25em;
+}
+.fullwidthbtn{
+    display: block;
+    width: 100%;
+    background-color: #0096d6;
+    color: #fff;
+    padding: 1.125em 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.medium-6{
+    width: 50%;
+}
+.column{
+    position: relative;
+    padding-left: 10em;
+    float: left;
+}
+
+.banner{
+    width: 1920px;
+    padding: 0;
+    margin: 0 auto;
+}
+.bannerText{
+    padding-top: 18%;
+}
+.bannerText>h3{
+    font-size: 42px;
+    line-height: 48px;
+    color: #000;
+}
+.bannerText>p{
+    font-size: 24px;
+    line-height: 26px;
+    color: #000;
+}
+.bannerButton{
+    background-color: rgba(34,34,34,.0);
+    border: 1px solid #000;
+    color: #000;
+    border-radius: 3px;
+    display: inlineblock;
+    padding:15px 30px;
+    font-size: 14px;
+}
+.content-promotion{
+    margin-top: 60px;
+}
+.row{
+    margin: 0 auto;
+    max-width: 62.5rem;
+    width: 100%;
+}
+.content-promotion>.medium-6{
+    width: 50%;
+}
+.columns{
+    position: relative;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    float: left;
+}
+.text-center{
+    text-align: center;
+}
+.text-center>h2{
+    font-size: 42px;
+    font-family: HPSimplifiedLight;
+}
+img{
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+.gutter1{
+    margin: 10px 0;
+}
+
+.columns-right{
+    position: relative;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    width: 50%;
+}

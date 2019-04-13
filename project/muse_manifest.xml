@@ -1,0 +1,168 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="pro.html" resolutions="1x" timestamp="1517291735639">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="harvel-f1.css" crc="3792496811" ref="harvel-f1"/>
+    <file name="smart.css" crc="114661614" ref="smart"/>
+    <file name="ph_-th_ng.css" crc="3796509283" ref="phổ-thông"/>
+    <file name="harvel-n1.css" crc="4211682266" ref="harvel-n1"/>
+    <file name="harvel-iten.css" crc="352397287" ref="harvel-iten"/>
+    <file name="harvel-f2.css" crc="4008120125" ref="harvel-f2"/>
+    <file name="ph_-ki_n.css" crc="488605845" ref="phụ-kiện"/>
+    <file name="mtb.css" crc="197600612" ref="mtb"/>
+    <file name="index.css" crc="4114700065" ref="index"/>
+    <file name="wireless-charger-convertible-2017.css" crc="4271073832" ref="wireless-charger-convertible-2017"/>
+    <file name="harvel-s2.css" crc="4013729469" ref="harvel-s2"/>
+    <file name="harvel-q3.css" crc="376825224" ref="harvel-q3"/>
+  </folder>
+  <folder name="assets">
+    <file name="pic.png" crc="3897861993" seo="true" mt="1516871363000"/>
+    <file name="rec3.png" crc="4276446799" seo="true" mt="1516976764000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="smart:harvel-f1:harvel-f2:harvel-q3:phổ-thông:harvel-iten:mtb:harvel-s2:harvel-n1:phụ-kiện:wireless-charger-convertible-2017:index"/>
+    <file name="museutils.js" crc="163421577" ref="smart:harvel-f1:harvel-f2:harvel-q3:phổ-thông:harvel-iten:mtb:harvel-s2:harvel-n1:phụ-kiện:wireless-charger-convertible-2017:index"/>
+    <file name="whatinput.js" crc="86476730" ref="smart:harvel-f1:harvel-f2:harvel-q3:phổ-thông:harvel-iten:mtb:harvel-s2:harvel-n1:phụ-kiện:wireless-charger-convertible-2017:index"/>
+    <file name="museconfig.js" crc="168988563" ref="smart:harvel-f1:harvel-f2:harvel-q3:phổ-thông:harvel-iten:mtb:harvel-s2:harvel-n1:phụ-kiện:wireless-charger-convertible-2017:index"/>
+    <file name="webpro.js" crc="3848665353" ref="smart:index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="smart:index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="smart:index"/>
+    <file name="touchswipe.js" crc="404375771" ref="smart:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="smart:harvel-f1:harvel-f2:harvel-q3:phổ-thông:harvel-iten:mtb:harvel-s2:harvel-n1:phụ-kiện:wireless-charger-convertible-2017:index"/>
+    <file name="require.js" crc="244322403" ref="smart:harvel-f1:harvel-f2:harvel-q3:phổ-thông:harvel-iten:mtb:harvel-s2:harvel-n1:phụ-kiện:wireless-charger-convertible-2017:index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u4799.php" crc="3776193396" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg đt.png" crc="3778544208" seo="true" ref="smart:index"/>
+    <file name="blank.gif" crc="4208392903" ref="smart:index"/>
+    <file name="loading.gif" crc="3815509949" ref="smart:index"/>
+    <file name="1-u568.png" crc="527029813" ref="smart"/>
+    <file name="3-u598.png" crc="490519155" ref="smart"/>
+    <file name="4-u635.png" crc="4172897698" ref="smart"/>
+    <file name="u949-r.png" crc="185640696" ref="smart"/>
+    <file name="u969-r.png" crc="4165081070" ref="smart"/>
+    <file name="u1003-r.png" crc="171429935" ref="smart"/>
+    <file name="realistic.jpg" crc="4022872717" seo="true" ref="smart"/>
+    <file name="realistic 1.jpg" crc="29576291" seo="true" ref="smart"/>
+    <file name="realistic 5-crop-u750.jpg" crc="3775875931" ref="smart"/>
+    <file name="realistic 4-crop-u760.jpg" crc="4010798764" ref="smart"/>
+    <file name="realistic 6-crop-u770.jpg" crc="443604303" ref="smart"/>
+    <file name="product3-crop-u1658.png" crc="63932996" ref="harvel-f1"/>
+    <file name="1(1).png" crc="237997991" seo="true" ref="harvel-f1"/>
+    <file name="harvel f1.png" crc="28026346" seo="true" ref="harvel-f1"/>
+    <file name="nền-9-crop-u1755.jpg" crc="425589684" ref="harvel-f1"/>
+    <file name="trc-hồng.png" crc="419538011" seo="true" ref="harvel-f1"/>
+    <file name="nền-6-crop-u1826.jpg" crc="3786816026" ref="harvel-f1"/>
+    <file name="dt.png" crc="390922135" seo="true" ref="harvel-f1"/>
+    <file name="cam-sau2.png" crc="4233263329" seo="true" ref="harvel-f1"/>
+    <file name="phone(2)-crop-u1920.jpg" crc="4172536625" ref="harvel-f1"/>
+    <file name="home1.png" crc="74687305" seo="true" ref="harvel-f1"/>
+    <file name="nền-19-crop-u1993.jpg" crc="18796969" ref="harvel-f1"/>
+    <file name="nền-2-crop-u2052.jpg" crc="4274074732" ref="harvel-f1"/>
+    <file name="phone(4).png" crc="4059292469" seo="true" ref="harvel-f1"/>
+    <file name="1.png" crc="40455377" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="2.jpg" crc="455109328" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="3.jpg" crc="4194197668" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="4.jpg" crc="520833844" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="5.jpg" crc="155871250" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="6.jpg" crc="3823969931" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="7.jpg" crc="3885286615" seo="true" ref="harvel-f1:harvel-f2:harvel-q3"/>
+    <file name="bmvt.png" crc="4248023630" seo="true" ref="harvel-f1"/>
+    <file name="2837x454.png" crc="273185956" seo="true" ref="harvel-f2"/>
+    <file name="1(1)2.png" crc="4050547127" seo="true" ref="harvel-f2"/>
+    <file name="2.png" crc="358004540" seo="true" ref="harvel-f2"/>
+    <file name="nền-19-crop-u2321.jpg" crc="4057892107" ref="harvel-f2"/>
+    <file name="camerasau.png" crc="101425292" seo="true" ref="harvel-f2"/>
+    <file name="nền-10-crop-u2415.jpg" crc="4077256649" ref="harvel-f2"/>
+    <file name="cam-sau.png" crc="4196580434" seo="true" ref="harvel-f2"/>
+    <file name="zp-crop-u2344.jpg" crc="88185652" ref="harvel-f2"/>
+    <file name="pic.png" crc="3897861993" seo="true" ref="harvel-f2"/>
+    <file name="phone1.png" crc="4000762641" seo="true" ref="harvel-f2"/>
+    <file name="pic1-crop-u2456.png" crc="172447317" ref="harvel-f2"/>
+    <file name="phone(2)-crop-u2472.jpg" crc="4242624572" ref="harvel-f2"/>
+    <file name="bmvt2.png" crc="299315804" seo="true" ref="harvel-f2"/>
+    <file name="phone_mb.png" crc="196987863" seo="true" ref="harvel-q3"/>
+    <file name="bg-crop-u2628.jpg" crc="253700659" ref="harvel-q3"/>
+    <file name="new_phone@2x-crop-u2648.png" crc="4220623315" ref="harvel-q3"/>
+    <file name="title(1).png" crc="171676750" seo="true" ref="harvel-q3"/>
+    <file name="area3_icon.png" crc="414055508" seo="true" ref="harvel-q3"/>
+    <file name="product_mb.png" crc="4282611448" seo="true" ref="harvel-q3"/>
+    <file name="old-phone@2x_mb.png" crc="4095662988" seo="true" ref="harvel-q3"/>
+    <file name="new-phone@2x_mb.png" crc="4231675384" seo="true" ref="harvel-q3"/>
+    <file name="old-phone@2x_mb(1).png" crc="4028352872" seo="true" ref="harvel-q3"/>
+    <file name="new-phone@2x_mb(1).png" crc="4078039476" seo="true" ref="harvel-q3"/>
+    <file name="area5_icon.png" crc="4188158008" seo="true" ref="harvel-q3"/>
+    <file name="sau-đen3.png" crc="4023577817" seo="true" ref="harvel-q3"/>
+    <file name="nền-7-crop-u2845.jpg" crc="4123657090" ref="harvel-q3"/>
+    <file name="pic1@2x_mb.png" crc="393758439" seo="true" ref="harvel-q3"/>
+    <file name="area7_icon.png" crc="4002361661" seo="true" ref="harvel-q3"/>
+    <file name="sau-đen4.png" crc="303050181" seo="true" ref="harvel-q3"/>
+    <file name="sau-đen5.png" crc="519072943" seo="true" ref="harvel-q3"/>
+    <file name="phone(2)-crop-u2956.jpg" crc="4172536625" ref="harvel-q3"/>
+    <file name="area8_icon-crop-u2972.png" crc="4164062255" ref="harvel-q3"/>
+    <file name="nền-2-crop-u3116.jpg" crc="4274074732" ref="harvel-q3"/>
+    <file name="product@2x_mb(1).png" crc="437700197" seo="true" ref="harvel-q3"/>
+    <file name="nền21-crop-u3210.jpg" crc="280327629" ref="phổ-thông"/>
+    <file name="other2.png" crc="3767518471" seo="true" ref="phổ-thông:harvel-iten"/>
+    <file name="n1-5-crop-u3334.png" crc="4264822195" ref="phổ-thông"/>
+    <file name="n1-7-crop-u3354.png" crc="3792335006" ref="phổ-thông"/>
+    <file name="n1-4.png" crc="430553592" seo="true" ref="phổ-thông:harvel-iten"/>
+    <file name="other1.png" crc="357780773" seo="true" ref="phổ-thông:harvel-iten"/>
+    <file name="rec1jpg.jpg" crc="4183333850" seo="true" ref="phổ-thông"/>
+    <file name="psn3-crop-u3406.jpg" crc="378550483" ref="phổ-thông"/>
+    <file name="bg1-1-crop-u3578.jpg" crc="342074604" ref="harvel-iten"/>
+    <file name="other3.png" crc="4278755385" seo="true" ref="harvel-iten"/>
+    <file name="nền-15-crop-u3619.jpg" crc="316879772" ref="harvel-iten"/>
+    <file name="other6.png" crc="154242594" seo="true" ref="harvel-iten"/>
+    <file name="other8.png" crc="171686720" seo="true" ref="harvel-iten"/>
+    <file name="other4.png" crc="133576668" seo="true" ref="harvel-iten"/>
+    <file name="nền-19-crop-u3956.jpg" crc="307865413" ref="mtb"/>
+    <file name="tb1-3.png" crc="312718451" seo="true" ref="mtb:harvel-s2:index"/>
+    <file name="tb1-4.png" crc="98975834" seo="true" ref="mtb:harvel-s2"/>
+    <file name="tb1-1.png" crc="4269947383" seo="true" ref="harvel-s2"/>
+    <file name="tb1-2-crop-u4075.jpg" crc="3962976466" ref="harvel-s2"/>
+    <file name="tb1-9-crop-u4094.jpg" crc="315147607" ref="harvel-s2"/>
+    <file name="tb1-5.png" crc="3828479404" seo="true" ref="harvel-s2"/>
+    <file name="tb1-6.png" crc="474681501" seo="true" ref="harvel-s2"/>
+    <file name="ps7.jpg" crc="4034350468" seo="true" ref="harvel-s2"/>
+    <file name="n1-5-crop-u3744.png" crc="106579796" ref="harvel-n1"/>
+    <file name="n1-7-crop-u3751.png" crc="4087111946" ref="harvel-n1"/>
+    <file name="n1-8.png" crc="3763157341" seo="true" ref="harvel-n1"/>
+    <file name="bg(1)-crop-u3805.jpg" crc="223205137" ref="harvel-n1"/>
+    <file name="n1-11.png" crc="4076317794" seo="true" ref="harvel-n1"/>
+    <file name="n1-10.png" crc="81691955" seo="true" ref="harvel-n1"/>
+    <file name="n1-2jpg.jpg" crc="106554867" seo="true" ref="harvel-n1"/>
+    <file name="psn3-crop-u3873.jpg" crc="4032500492" ref="harvel-n1"/>
+    <file name="nền21-crop-u4250.jpg" crc="202432464" ref="phụ-kiện"/>
+    <file name="pk10.png" crc="384253755" seo="true" ref="phụ-kiện"/>
+    <file name="pro.png" crc="101513314" seo="true" ref="phụ-kiện:wireless-charger-convertible-2017"/>
+    <file name="pk8-crop-u4371.jpg" crc="4106472668" ref="wireless-charger-convertible-2017"/>
+    <file name="pk9.png" crc="517949861" seo="true" ref="wireless-charger-convertible-2017"/>
+    <file name="pk3-crop-u4407.jpg" crc="4182637974" ref="wireless-charger-convertible-2017"/>
+    <file name="pk4-crop-u4423.jpg" crc="316505232" ref="wireless-charger-convertible-2017"/>
+    <file name="pk5-crop-u4433.jpg" crc="123867845" ref="wireless-charger-convertible-2017"/>
+    <file name="pk6-crop-u4455.jpg" crc="508997695" ref="wireless-charger-convertible-2017"/>
+    <file name="pk7-crop-u4468.jpg" crc="393480718" ref="wireless-charger-convertible-2017"/>
+    <file name="bg1-1.jpg" crc="3947901398" seo="true" ref="index"/>
+    <file name="tb1-2.jpg" crc="368032552" seo="true" ref="index"/>
+    <file name="ps2.jpg" crc="3771771647" seo="true" ref="index"/>
+    <file name="v5l-2-crop-u4708.png" crc="4291859716" ref="index"/>
+    <file name="bg1-1-crop-u4756.jpg" crc="4132674490" ref="index"/>
+    <file name="pk3-crop-u4769.jpg" crc="4280358793" ref="index"/>
+    <file name="liên_he.png" crc="4021879074" seo="true" ref="index"/>
+  </folder>
+  <file name="smart.html" crc="4205505470" seo="true" mt="1517136993233" redirect="true"/>
+  <file name="harvel-f1.html" crc="38877140" seo="true" mt="1516978010548" redirect="true"/>
+  <file name="harvel-f2.html" crc="4034508033" seo="true" mt="1516981667441" redirect="true"/>
+  <file name="harvel-q3.html" crc="190214830" seo="true" mt="1516938674777" redirect="true"/>
+  <file name="phổ-thông.html" crc="56691189" seo="true" mt="1517134775848" redirect="true"/>
+  <file name="harvel-iten.html" crc="238013669" seo="true" mt="1516982696332" redirect="true"/>
+  <file name="mtb.html" crc="3795974925" seo="true" mt="1517134851114" redirect="true"/>
+  <file name="harvel-s2.html" crc="3883620898" seo="true" mt="1517131740300" redirect="true"/>
+  <file name="harvel-n1.html" crc="374585620" seo="true" mt="1517070632204" redirect="true"/>
+  <file name="phụ-kiện.html" crc="3955536525" seo="true" mt="1517134649724" redirect="true"/>
+  <file name="wireless-charger-convertible-2017.html" crc="229513314" seo="true" mt="1517134345795" redirect="true"/>
+  <file name="index.html" crc="462186736" seo="true" mt="1517153891834" redirect="true"/>
+</manifest>

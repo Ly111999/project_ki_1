@@ -1,0 +1,79 @@
+html {
+	min-height: 100%;
+	min-width: 100%;
+	-ms-text-size-adjust: none;
+}
+body, div, dl, dt, dd, ul, ol, li, nav, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td, a {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: transparent;
+	-webkit-transform-origin: left top;
+	-ms-transform-origin: left top;
+	-o-transform-origin: left top;
+	transform-origin: left top;
+	background-repeat: no-repeat;
+}
+button.submit-btn {
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.clearfix:after {
+	content: "\0020";
+	visibility: hidden;
+	display: block;
+	height: 0px;
+	clear: both;
+}
+.borderbox {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.colelem {
+	display: inline;
+	float: left;
+	clear: both;
+}
+.grpelem, .accordion_wrapper {
+	display: inline;
+	float: left;
+}
+.clip_frame {
+	overflow: hidden;
+}
+.MenuBar .SubMenuVisible, .MenuBarVertical .SubMenuVisible, .MenuBar .SubMenu .SubMenuVisible, .popup_element.Active, span.actAsPara, .actAsDiv, a.nonblock.nontext, img.block {
+	display: block;
+}
+.a1 {
+	margin-left: -95px;
+	margin-bottom: -40px;
+	font-size: 18px;
+}
+
+.ex {
+	
+	margin-top: 2500px;
+	margin-left: 740px;
+}
+
+.cheo-1 {
+	
+	margin-left: 60px;
+	margin-top: -30px;
+}
+
+.cheo-2 {
+	
+	margin-left: 78px;
+	margin-top: -30px;
+}
+
+#abc {
+	margin-left: 300px;
+	margin-top: -480px;	
+	
+}

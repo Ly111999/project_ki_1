@@ -1,0 +1,22 @@
+<div class="jumbotron text-center">
+	<h1>About People</h1>
+	
+
+	<div ng-controller="home2">
+        <label>ID: </label>   <input type="text" ng-model="user_id"/>
+        <button ng-click="Get_id()" class="mb-5">Get ID</button>
+        <br>
+		<h1 ng-repeat="x in data2" class="chitiet1">
+			<img src="{{x.avatar}}" class="avatar">
+            <p class="text-center text-warning ">{{x.first_name}} {{x.last_name}}</p>
+            <div class="row">
+                <div class="col-6">
+                    <p class="box-detail text-danger"><i class="fa fa-id-card-o"></i>: {{x.id}}</p>
+                </div>
+
+            </div>
+
+		</h1>
+
+	</div>
+</div>
